@@ -2,7 +2,7 @@
 
     
 <div>
-<img width="300" src="img/1.png" alt="">
+<img width="300" src="../img/1.png" alt="">
 <img width="300" src="https://user-images.githubusercontent.com/67784971/103776194-186c4100-4ffd-11eb-9ded-246f0f6220e6.jpg" alt="">
 <img width="300" src="https://user-images.githubusercontent.com/67784971/103776232-23bf6c80-4ffd-11eb-8647-ddc24b02af9d.jpg" alt="">
 
