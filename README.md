@@ -1,19 +1,16 @@
 # Web Assignment
 
     
-<div>
-<img width="300" src="../img/1.png" alt="">
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103776194-186c4100-4ffd-11eb-9ded-246f0f6220e6.jpg" alt="">
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103776232-23bf6c80-4ffd-11eb-8647-ddc24b02af9d.jpg" alt="">
+![image](https://user-images.githubusercontent.com/67784971/116798243-afcd3680-aabb-11eb-85b5-be9594856bb6.png)
 
+<br>
+![image](https://user-images.githubusercontent.com/67784971/116798247-b52a8100-aabb-11eb-82f9-0eb48ef774a7.png)
 
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103776276-33d74c00-4ffd-11eb-9f2f-3f742504069e.jpg" alt="">
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103776306-3d60b400-4ffd-11eb-93f7-fdb5b4cf615e.jpg" alt="">
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103776327-46518580-4ffd-11eb-8c8c-f9d187de4b2e.jpg" alt="">
+<br>
+![image](https://user-images.githubusercontent.com/67784971/116798248-b8be0800-aabb-11eb-8127-b451f8e9c591.png)
+<br>
 
+![image](https://user-images.githubusercontent.com/67784971/116798249-bcea2580-aabb-11eb-80ac-9cf091c78a2c.png)
 
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103776348-4f425700-4ffd-11eb-9b3e-f9402be572f2.jpg" alt="">
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103777442-e1972a80-4ffe-11eb-9eb5-950e6469935d.jpg" alt="">
-<img width="300" src="https://user-images.githubusercontent.com/67784971/103777447-e360ee00-4ffe-11eb-8d50-533712aefcad.jpg" alt="">
-</div>
-
+<br>
+![image](https://user-images.githubusercontent.com/67784971/116798252-bfe51600-aabb-11eb-9959-77829aec4a25.png)
