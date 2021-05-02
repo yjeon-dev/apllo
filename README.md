@@ -1,5 +1,11 @@
-# Web Assignment
-
+# Web Assignment - Apollo 11 moon landing information website
+    - DOM programming with HTML and JavaScript
+    - This project includes multiple HTML, JS, and CSS files.
+    
+    * index.html - Main page of website 
+    * honesty.html - References / Links
+    * about.html - creater information / contents list
+    
     
 ![image](https://user-images.githubusercontent.com/67784971/116798243-afcd3680-aabb-11eb-85b5-be9594856bb6.png)
 
